@@ -1,7 +1,15 @@
-stamps.com-php
+StampsComLaravel
 ==============
-Created by Aaron J Smith (aaronjsmith.me, propellerinc.com)
+A PHP wrapper for the Stamps.com API, for use with Laravel 5.3 or higher.
 
-PHP Wrapper for Stamps.com API
+To use run `composer require JoeSong/StampsComLaravel`
 
-I started developing with the stamps.com SOAP api and I could not find a decent wrapper for it, This will hopefully be a good starting point for a stamps.com project.
+Setup your API credentials in Laravel's `.env` file:
+```
+STAMPS_COM_INTEGRATION_ID=xxxx
+STAMPS_COM_USERNAME=xxx
+STAMPS_COM_PASSWORD=xxx
+```
+
+---
+Based on work originally created by Aaron J Smith (aaronjsmith.me, propellerinc.com), https://github.com/aaronjsmith/stamps.com-php/ 
