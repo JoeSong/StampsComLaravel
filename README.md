@@ -6,9 +6,9 @@ To use run `composer require JoeSong/StampsComLaravel`
 
 Setup your API credentials in Laravel's `.env` file:
 ```
-STAMPS_COM_INTEGRATION_ID=xxxx
-STAMPS_COM_USERNAME=xxx
-STAMPS_COM_PASSWORD=xxx
+STAMPS_INTEGRATION_ID=xxxx
+STAMPS_USERNAME=xxx
+STAMPS_PASSWORD=xxx
 ```
 
 ---
