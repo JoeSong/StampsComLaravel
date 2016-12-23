@@ -1,0 +1,21 @@
+{
+    "name": "JoeSong/stamps.com-php",
+    "description": "PHP Wrapper for Stamps.com API",
+    "homepage": "https://github.com/JoeSong/stamps.com-php",
+    "authors": [
+        {
+            "name": "Aaron J Smith",
+            "email": "aaron@aaronjsmith.me",
+            "role": "Developer"
+        },
+        {
+            "name": "Joe Song",
+            "email": "jsong@song.agency",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev"
+}
