@@ -1,10 +1,10 @@
 StampsComLaravel
 ==============
-A PHP wrapper for the Stamps.com API, for use with Laravel 5.3 or higher.
+A PHP wrapper for the Stamps.com API, for use with Lumen 5.3 or higher.
 
 To use run `composer require JoeSong/StampsComLaravel`
 
-Setup your API credentials in Laravel's `.env` file:
+Setup your API credentials in Lumen's `.env` file:
 ```
 STAMPS_INTEGRATION_ID=xxxx
 STAMPS_USERNAME=xxx
